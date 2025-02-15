@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # List of bot tokens
 BOT_TOKENS = [
-    "7440291936:AAEarg_I4IVciDWSsMuXNuMOvSg2E3b3Ixk",
+    "7860467798:AAGkMGQt4JZ5UCRPYeiZiB7u3xkSp-OLffk",
     "7617468749:AAHnlNx1jZgTeNjHewEbx2f_kWV_DoAuToY"
 ]
 
